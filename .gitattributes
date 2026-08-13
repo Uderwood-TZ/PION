@@ -1,0 +1,5 @@
+FVM/** filter=lfs diff=lfs merge=lfs -text
+PINN/** filter=lfs diff=lfs merge=lfs -text
+PION/** filter=lfs diff=lfs merge=lfs -text
+R-PINN/** filter=lfs diff=lfs merge=lfs -text
+XPINN/** filter=lfs diff=lfs merge=lfs -text
